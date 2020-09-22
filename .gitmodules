@@ -1,0 +1,3 @@
+[submodule "portable-generator-service-kjar"]
+	path = portable-generator-service-kjar
+	url = http://52.249.199.167:8080/business-central/git/MySpace/portable-generator-service-kjar
